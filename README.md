@@ -1,2 +1,2 @@
 # Python-basic
-My journey with python
+This is my journey with the python basic.
